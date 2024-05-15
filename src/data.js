@@ -303,7 +303,7 @@ export const species = {
     tgname: "Slowcone",
     tgmodel: "slocone_1",
     tgtype: tgsilly,
-    default: "vanilite",
+    default: "vanillite",
     tgspec: "",
     tgdesc: "",
     tgbase: {
@@ -322,7 +322,7 @@ export const species = {
     tgname: "Powaffle",
     tgmodel: "tempstars/powaffle",
     tgtype: tgsilly,
-    default: "vaniluxe",
+    default: "vanilluxe",
     tgspec: "",
     tgdesc: "",
     tgbase: {
@@ -416,7 +416,7 @@ export const species = {
   flyder: {
     tgname: "Flyder",
     tgmodel: "flyder",
-    tgtype: tgspace,
+    tgtype: tgsick,
     default: "spinarak",
     tgspec: "",
     tgdesc: "",
@@ -435,7 +435,7 @@ export const species = {
   airachnid: {
     tgname: "Airachnid",
     tgmodel: "flyder",
-    tgtype: tgspace,
+    tgtype: tgsick,
     default: "ariados",
     tgspec: "airstring",
     tgdesc: "",

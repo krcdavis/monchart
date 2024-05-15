@@ -1,8 +1,11 @@
-# React + Vite
+# Monstar Chart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A basic project using React with original data supplemented by an API.
 
-Currently, two official plugins are available:
+The original monsters don't all have designs yet, so PokeAPI was used to provide placeholder images.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Can be previewed here: https://codesandbox.io/p/sandbox/hungry-elbakyan-55n5qh
+
+Or here: https://monchart.vercel.app/
+
+CSS is basic but functional.
